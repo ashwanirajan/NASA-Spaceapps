@@ -44,7 +44,7 @@ Being very new to GIS datasets, we faced some initial issues in getting used to 
 
 ### Project Demo
 Presentation Slides:
-https://docs.google.com/presentation/d/1h4altxDp3kqC_40P0VyQthjMvaT7oJUylIbU9mEtXHc/edit?usp=sharing
+https://docs.google.com/presentation/d/1h4altxDp3kqC_40P0VyQthjMvaT7oJUylIbU9mEtXHc/edit?usp=sharing \
 https://drive.google.com/file/d/1czKbxtR7nzmiZYDi0UdxDvq9YOP4oWlr/view?usp=sharing
 
 Other Dashboards:
