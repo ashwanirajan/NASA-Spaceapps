@@ -49,7 +49,7 @@ https://drive.google.com/file/d/1czKbxtR7nzmiZYDi0UdxDvq9YOP4oWlr/view?usp=shari
 
 Other Dashboards:
 Impact of lockdown on Air Quality Link: https://go.nasa.gov/2XE3VaG \
-Impact of lockdown on Unemployment and Mobility Rate Dashboard: https://tabsoft.co/2XEZMU3 \
+Impact of lockdown on Unemployment and Mobility Rate Dashboard: https://tabsoft.co/2XEZMU3 
 
 ### Data & Resources
 We used the following data sources for our analysis.\
